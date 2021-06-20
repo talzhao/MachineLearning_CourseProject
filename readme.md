@@ -14,7 +14,7 @@
 >
 > The training function.
 
-## best result $V^{Rand}$
+## best result 
 
 The result for our model. The average performance  on the testing dataset :
 $$
