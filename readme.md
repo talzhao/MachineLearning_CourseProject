@@ -9,7 +9,7 @@
 > **train_and_test.py**
 >
 > The main function. 
-$V^{Rand} = 0.9661744$
+
 > **trainers.py**
 >
 > The training function.
